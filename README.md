@@ -1,2 +1,3 @@
 # NumConQ
-The source code and bench mark dataset.
+The source code and benchmark dataset.
+The code will be released later.
